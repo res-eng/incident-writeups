@@ -1,6 +1,6 @@
 # Incident writeups
 
-This repo contains examples of well-written writeups of incidents.
+Examples of great writeups of incidents.
 
 ## Mailchimp Mandrill outage (Feb. 4, 2019)
 
