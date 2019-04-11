@@ -14,3 +14,5 @@ Some notable elements of this writeup
 ## GitHub outage (Oct. 21, 2018)
 
 [Writeup](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
+
+Lots of details that describe how the incident unfolded over time.
